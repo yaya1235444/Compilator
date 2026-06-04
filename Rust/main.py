@@ -6,7 +6,7 @@ import shutil
 import glob
 import subprocess
 
-VERSION = "neburust 5.1.0 (Bilingual Global Build Suite)"
+VERSION = "neburust 1.0.2"
 
 # Couleurs ANSI / ANSI Colors
 C_WHITE = "\033[0m"
